@@ -25838,6 +25838,18 @@
       "scripts": "jquery[.-]pjax(?:-([\\d.]))?(?:\\.min)?\\.js(?:\\?ver=([\\d.]+))?\\;version:\\1?\\1:\\2",
       "website": "https://github.com/defunkt/jquery-pjax"
     },
+    "jQuery Validation Plugin": {
+      "cats": [
+        59
+      ],
+      "cpe": "cpe:2.3:a:jqueryvalidation:jquery_validation",
+      "description": "The jQuery Validation Plugin provides drop-in validation for your existing forms, while making all kinds of customizations to fit your application really easy.",
+      "icon": "jquery-validation.png",
+      "implies": "jQuery",
+      "oss": true,
+      "scripts": "jquery\\.validate(?:\\.min)?\\.js",
+      "website": "https://jqueryvalidation.org/"
+    },
     "jqPlot": {
       "cats": [
         25
