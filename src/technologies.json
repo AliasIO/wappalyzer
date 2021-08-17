@@ -22223,6 +22223,27 @@
       "website": "https://triplelift.com",
       "xhr": "\\.3lift\\.com"
     },
+    "TRUENDO": {
+      "cats": [
+        67
+      ],
+      "description": "TRUENDO is a GDPR compliance software.",
+      "icon": "TRUENDO.svg",
+      "js": {
+        "Truendo": "",
+        "TruendoCookieControlCallback": ""
+      },
+      "scripts": [
+        "cdn\\.priv\\.center/",
+        "cdn\\.truendo\\.com/"
+      ],
+      "saas": true,
+      "pricing": [
+        "low",
+        "recurring"
+      ],
+      "website": "https://truendo.com"
+    },
     "TruValidate": {
       "cats": [
         16,
