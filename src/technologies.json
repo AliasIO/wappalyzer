@@ -5398,6 +5398,25 @@
       "saas": true,
       "website": "https://www.contentstack.com"
     },
+    "Contlo": {
+      "cats": [
+        90,
+        32
+      ],
+      "description": "Contlo is an AI powered marketing software.",
+      "icon": "Contlo.png",
+      "js": {
+        "CONTLO_ENV": ""
+      },
+      "pricing": [
+        "freemium",
+        "high",
+        "recurring"
+      ],
+      "saas": true,
+      "scripts": "\\.contlo\\.com/",
+      "website": "https://www.contlo.com"
+    },
     "Conversant Consent Tool": {
       "cats": [
         67
