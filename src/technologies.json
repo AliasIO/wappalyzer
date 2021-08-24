@@ -23945,10 +23945,7 @@
       "cats": [
         19
       ],
-      "html": [
-        "<link[^>]+rel=[\"']web-socket[\"']",
-        "<(?:link|a)[^>]+href=[\"']wss?://"
-      ],
+	  "js": {"WebSocket":""},
       "icon": "websocket.png",
       "website": "https://en.wikipedia.org/wiki/WebSocket"
     },
