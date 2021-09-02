@@ -25047,9 +25047,6 @@
       ],
       "description": "Wheelio is gamified pop-up/widget for ecommerce sites.",
       "icon": "Wheelio.png",
-      "js": {
-        "WheelEvent": ""
-      },
       "pricing": [
         "low",
         "recurring"
