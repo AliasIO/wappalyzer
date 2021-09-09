@@ -517,9 +517,6 @@
     ],
     "description": "Periodic is a white-label scheduling system.",
     "icon": "Periodic.svg",
-    "js": {
-      "PeriodicSyncManager": ""
-    },
     "pricing": [
       "low",
       "recurring"
