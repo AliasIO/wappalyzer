@@ -666,6 +666,35 @@
     "url": "^https?//.+\\.memberstack\\.io",
     "website": "https://www.memberstack.io"
   },
+  "Menufy Website": {
+    "cats": [
+      51
+    ],
+    "description": "Menufy is an online and mobile meal ordering service.",
+    "icon": "Menufy.png",
+    "js": {
+      "Views_Website_Layouts_Footer_Menufy": ""
+    },
+    "scripts": "sitecontent-menufycom\\.netdna-ssl\\.com/",
+    "pricing": [
+      "payg"
+    ],
+    "saas": true,
+    "website": "https://restaurant.menufy.com"
+  },
+  "Menufy Online Ordering": {
+    "cats": [
+      93
+    ],
+    "description": "Menufy is an online and mobile meal ordering service.",
+    "icon": "Menufy.png",
+    "dom": "a[href*='.menufy.com/'][target='_blank']",
+    "pricing": [
+      "payg"
+    ],
+    "saas": true,
+    "website": "https://restaurant.menufy.com"
+  },
   "Mercado Shops": {
     "cats": [
       6
