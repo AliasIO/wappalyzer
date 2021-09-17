@@ -591,6 +591,24 @@
     "icon": "Whooshkaa.svg",
     "website": "https://www.whooshkaa.com"
   },
+  "Widen": {
+    "cats": [
+      95
+    ],
+    "description": "Widen is a digital asset management and product information management solutions provider.",
+    "icon": "Widen.svg",
+    "js": {
+      "WidenSessionTimer": "\\;confidence:50",
+      "WidenUI": "\\;confidence:50"
+    },
+    "scripts": "assets/\\d+-\\d+/stack/en/widenjs\\.js",
+    "saas": true,
+    "pricing": [
+      "high",
+      "recurring"
+    ],
+    "website": "https://www.widen.com"
+  },
   "Wigzo": {
     "cats": [
       32
