@@ -624,6 +624,23 @@
     },
     "website": "http://gohugo.io"
   },
+  "HulkApps GDPR/CCPA Compliance Manager": {
+    "cats": [
+      67
+    ],
+    "description": "HulkApps GDPR/CCPA Compliance Manager is a consent management solution.",
+    "icon": "HulkApps.svg",
+    "js": {
+      "hulkSetCookie": ""
+    },
+    "scripts": "cookiebar\\.hulkapps\\.com/hulk_cookie_bar\\.js",
+    "saas": true,
+    "pricing": [
+      "low",
+      "recurring"
+    ],
+    "website": "https://www.hulkapps.com/products/gdpr-ccpa-cookie-manager-shopify-app"
+  },
   "Hyperspeed": {
     "cats": [
       92
