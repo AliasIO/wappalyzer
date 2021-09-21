@@ -627,7 +627,7 @@ class Site {
       }
 
       if (!this.options.noScripts) {
-        await sleep(1000)
+        await sleep(10000)
       }
 
       // page.on('console', (message) => this.log(message.text()))

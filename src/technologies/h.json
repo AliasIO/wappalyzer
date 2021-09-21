@@ -624,12 +624,29 @@
     },
     "website": "http://gohugo.io"
   },
+  "HulkApps Form Builder": {
+    "cats": [
+      73
+    ],
+    "description": "HulkApps Product Reviews is an application that creates customizable, job-specific forms for unit needs.",
+    "icon": "HulkApps.svg",
+    "implies": "Shopify",
+    "scripts": "formbuilder\\.hulkapps\\.com/",
+    "saas": true,
+    "pricing": [
+      "freemium",
+      "low",
+      "recurring"
+    ],
+    "website": "https://www.hulkapps.com/products/form-builder-shopify"
+  },
   "HulkApps GDPR/CCPA Compliance Manager": {
     "cats": [
       67
     ],
     "description": "HulkApps GDPR/CCPA Compliance Manager is a consent management solution.",
     "icon": "HulkApps.svg",
+    "implies": "Shopify",
     "js": {
       "hulkSetCookie": ""
     },
@@ -647,6 +664,7 @@
     ],
     "description": "HulkApps Product Reviews is a customer product reviews app for building social proof for store.",
     "icon": "HulkApps.svg",
+    "implies": "Shopify",
     "dom": "link[href*='reviews.hulkapps.com/']",
     "js": {
       "hulkappsProductReview": "",
