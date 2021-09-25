@@ -485,6 +485,7 @@
     "headers": {
       "Server": "^OpenBSD httpd"
     },
+    "icon": "OpenBSD.png",
     "excludes": "Apache",
     "oss": true,
     "website": "https://man.openbsd.org/httpd.8"
